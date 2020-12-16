@@ -1,0 +1,1 @@
+An easy fix is to move the async code block into a separate method that you can mark with async and call from Main

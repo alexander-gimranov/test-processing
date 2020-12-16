@@ -1,0 +1,1 @@
+Every once in a while, I need to run some async code in a .NET command-line application, but the Console Application template in Visual Studio makes it annoyingly difficult to do.

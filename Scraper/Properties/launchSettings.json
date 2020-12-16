@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Scraper": {
+      "commandName": "Project",
+      "commandLineArgs": "-F test1.txt,test2.txt -S a,the -C"
+    }
+  }
+}
